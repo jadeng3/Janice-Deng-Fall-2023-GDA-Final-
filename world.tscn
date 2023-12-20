@@ -17,7 +17,7 @@ centered = false
 position = Vector2(-333, 111)
 
 [node name="enemy" parent="." instance=ExtResource("3_acjbm")]
-position = Vector2(422, 123)
+position = Vector2(395, 116)
 
 [node name="BGmusic" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("4_6qf3e")
